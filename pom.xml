@@ -8,7 +8,7 @@
     <description>A distribution of snmp4j.agent, see snmp4j.agent site for updates</description>
 	<artifactId>snmp4j-agent</artifactId>
 	<packaging>jar</packaging>
-	<version>1.4.3-SNAPSHOT</version>
+	<version>1.4.4-SNAPSHOT</version>
 	<name>SNMP4J-Agent</name>
 	<url>https://github.com/kaazing/snmp4j.agent</url>
     	<scm>
